@@ -1,5 +1,7 @@
 # go-libraryofcongress-database-docstore
 
+Go package implementing the `sfomuseum/go-libraryofcongress-database.LibraryOfCongressDatabase` interface for use with `gocloud.dev/docstore` document stores. 
+
 ## Important
 
 Work in progress. There are still bugs.
